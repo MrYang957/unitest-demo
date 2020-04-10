@@ -1,0 +1,6 @@
+1578366364905	geckodriver	INFO	Listening on 127.0.0.1:12441
+1578366367975	geckodriver::marionette	INFO	Starting browser c:\program files\mozilla firefox\firefox.exe with args ["-marionette"]
+1578366369453	Marionette	INFO	Listening on port 12452
+1578366369828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.guomao.foocaa.cn/1.0.0/index.js?0104ccb2a67dadf94768, line 1: ReferenceError: io is not defined
+1578366377090	Marionette	INFO	New connections will no longer be acceptedzz
